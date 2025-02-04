@@ -1,0 +1,2201 @@
+2025-01-27 19:32:15 yaci-viewer-1  | 
+2025-01-27 19:32:15 yaci-viewer-1  | > @bloxbean/yaci-viewer@0.1.0 dev
+2025-01-27 19:32:15 yaci-viewer-1  | > vite dev --host 0.0.0.0
+2025-01-27 19:32:15 yaci-viewer-1  | 
+2025-01-27 19:32:16 yaci-viewer-1  | Forced re-optimization of dependencies
+2025-01-27 19:32:16 yaci-viewer-1  | 
+2025-01-27 19:32:16 yaci-viewer-1  |   VITE v6.0.6  ready in 548 ms
+2025-01-27 19:32:16 yaci-viewer-1  | 
+2025-01-27 19:32:16 yaci-viewer-1  |   ➜  Local:   http://localhost:5173/
+2025-01-27 19:32:16 yaci-viewer-1  |   ➜  Network: http://172.18.0.2:5173/
+2025-01-27 19:58:56 yaci-viewer-1  | Browserslist: caniuse-lite is outdated. Please run:
+2025-01-27 19:58:56 yaci-viewer-1  |   npx update-browserslist-db@latest
+2025-01-27 19:58:56 yaci-viewer-1  |   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:56 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-27 19:58:56 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-27 19:58:56 yaci-viewer-1  | ╰─ ★ Star daisyUI on GitHubhttps://github.com/saadeghi/daisyui
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:56 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-27 19:58:56 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-27 19:58:56 yaci-viewer-1  | ╰─ ❤︎ Support daisyUI project:https://opencollective.com/daisyui
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:56 yaci-viewer-1  | 2:28:56 PM [vite-plugin-svelte] src/routes/blocks/Blocks.svelte:40:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-27 19:58:56 yaci-viewer-1  | 2:28:56 PM [vite-plugin-svelte] src/routes/transactions/Transactions.svelte:32:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-27 19:58:56 yaci-viewer-1  | 2:28:56 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-27 19:58:56 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-27 19:58:56 yaci-viewer-1  | 2:28:56 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 A form label must be associated with a control
+2025-01-27 19:58:56 yaci-viewer-1  | https://svelte.dev/e/a11y_label_has_associated_control
+2025-01-27 19:58:56 yaci-viewer-1  | 2:28:56 PM [vite-plugin-svelte] src/components/Nav.svelte:44:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-27 19:58:56 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:56 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-27 19:58:56 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-27 19:58:56 yaci-viewer-1  | ╰─ ❤︎ Support daisyUI project:https://opencollective.com/daisyui
+2025-01-27 19:58:56 yaci-viewer-1  | 
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) ✨ new dependencies optimized: clsx
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) ✨ optimized dependencies changed. reloading
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-26OYLJWU.js" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-26OYLJWU.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-XRN3XOZ3.js?v=335ec48c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-26OYLJWU.js" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-BJSHLWZZ.js" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite] (client) Pre-transform error: The file does not exist at "/yaci-viewer/node_modules/.vite/deps/chunk-XRN3XOZ3.js" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-27 19:58:57 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 A form label must be associated with a control
+2025-01-27 19:58:57 yaci-viewer-1  | https://svelte.dev/e/a11y_label_has_associated_control
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite-plugin-svelte] src/components/Nav.svelte:44:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-27 19:58:57 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite-plugin-svelte] src/routes/blocks/Blocks.svelte:40:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-27 19:58:57 yaci-viewer-1  | 2:28:57 PM [vite-plugin-svelte] src/routes/transactions/Transactions.svelte:32:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-27 19:59:25 yaci-viewer-1  | {
+2025-01-27 19:59:25 yaci-viewer-1  |   hash: 'c408f9103ba7e0f207e211b53f5cca42f79f3e9c9d24024731d648be909497a8',
+2025-01-27 19:59:25 yaci-viewer-1  |   block_height: -1,
+2025-01-27 19:59:25 yaci-viewer-1  |   slot: -1,
+2025-01-27 19:59:25 yaci-viewer-1  |   inputs: [],
+2025-01-27 19:59:25 yaci-viewer-1  |   outputs: [
+2025-01-27 19:59:25 yaci-viewer-1  |     {
+2025-01-27 19:59:25 yaci-viewer-1  |       tx_hash: 'c408f9103ba7e0f207e211b53f5cca42f79f3e9c9d24024731d648be909497a8',
+2025-01-27 19:59:25 yaci-viewer-1  |       output_index: 0,
+2025-01-27 19:59:25 yaci-viewer-1  |       address: 'addr_test1qqe5df3su6tjhuuve6rjr8d36ccxre7dxfx2mzxp3egy72vsetrga9el2yjke2fcdql6f6sjzu7h6prajs8mhzpm6r5qpkfq9m',
+2025-01-27 19:59:25 yaci-viewer-1  |       stake_address: null,
+2025-01-27 19:59:25 yaci-viewer-1  |       amount: [Array],
+2025-01-27 19:59:25 yaci-viewer-1  |       data_hash: null,
+2025-01-27 19:59:25 yaci-viewer-1  |       inline_datum: null,
+2025-01-27 19:59:25 yaci-viewer-1  |       script_ref: null,
+2025-01-27 19:59:25 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-27 19:59:25 yaci-viewer-1  |       inline_datum_json: null
+2025-01-27 19:59:25 yaci-viewer-1  |     }
+2025-01-27 19:59:25 yaci-viewer-1  |   ],
+2025-01-27 19:59:25 yaci-viewer-1  |   utxo_count: 0,
+2025-01-27 19:59:25 yaci-viewer-1  |   total_output: 10000000000,
+2025-01-27 19:59:25 yaci-viewer-1  |   fees: 0,
+2025-01-27 19:59:25 yaci-viewer-1  |   ttl: 0,
+2025-01-27 19:59:25 yaci-viewer-1  |   auxiliary_data_hash: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   validity_interval_start: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   script_data_hash: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-27 19:59:25 yaci-viewer-1  |   required_signers: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   netowrk_id: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   collateral_return: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   total_collateral: null,
+2025-01-27 19:59:25 yaci-viewer-1  |   reference_inputs: [],
+2025-01-27 19:59:25 yaci-viewer-1  |   invalid: false
+2025-01-27 19:59:25 yaci-viewer-1  | }
+2025-01-27 19:59:25 yaci-viewer-1  | []
+2025-01-27 19:59:25 yaci-viewer-1  | []
+2025-01-27 19:59:40 yaci-viewer-1  | {
+2025-01-27 19:59:40 yaci-viewer-1  |   hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-27 19:59:40 yaci-viewer-1  |   block_height: -1,
+2025-01-27 19:59:40 yaci-viewer-1  |   slot: -1,
+2025-01-27 19:59:40 yaci-viewer-1  |   inputs: [],
+2025-01-27 19:59:40 yaci-viewer-1  |   outputs: [
+2025-01-27 19:59:40 yaci-viewer-1  |     {
+2025-01-27 19:59:40 yaci-viewer-1  |       tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-27 19:59:40 yaci-viewer-1  |       output_index: 0,
+2025-01-27 19:59:40 yaci-viewer-1  |       address: 'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt',
+2025-01-27 19:59:40 yaci-viewer-1  |       stake_address: null,
+2025-01-27 19:59:40 yaci-viewer-1  |       amount: [Array],
+2025-01-27 19:59:40 yaci-viewer-1  |       data_hash: null,
+2025-01-27 19:59:40 yaci-viewer-1  |       inline_datum: null,
+2025-01-27 19:59:40 yaci-viewer-1  |       script_ref: null,
+2025-01-27 19:59:40 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-27 19:59:40 yaci-viewer-1  |       inline_datum_json: null
+2025-01-27 19:59:40 yaci-viewer-1  |     }
+2025-01-27 19:59:40 yaci-viewer-1  |   ],
+2025-01-27 19:59:40 yaci-viewer-1  |   utxo_count: 0,
+2025-01-27 19:59:40 yaci-viewer-1  |   total_output: 3000000000000000,
+2025-01-27 19:59:40 yaci-viewer-1  |   fees: 0,
+2025-01-27 19:59:40 yaci-viewer-1  |   ttl: 0,
+2025-01-27 19:59:40 yaci-viewer-1  |   auxiliary_data_hash: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   validity_interval_start: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   script_data_hash: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-27 19:59:40 yaci-viewer-1  |   required_signers: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   netowrk_id: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   collateral_return: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   total_collateral: null,
+2025-01-27 19:59:40 yaci-viewer-1  |   reference_inputs: [],
+2025-01-27 19:59:40 yaci-viewer-1  |   invalid: false
+2025-01-27 19:59:40 yaci-viewer-1  | }
+2025-01-27 19:59:40 yaci-viewer-1  | []
+2025-01-27 19:59:40 yaci-viewer-1  | []
+2025-01-30 17:58:41 yaci-viewer-1  | 
+2025-01-30 17:58:41 yaci-viewer-1  | > @bloxbean/yaci-viewer@0.1.0 dev
+2025-01-30 17:58:41 yaci-viewer-1  | > vite dev --host 0.0.0.0
+2025-01-30 17:58:41 yaci-viewer-1  | 
+2025-01-30 17:58:42 yaci-viewer-1  | 
+2025-01-30 17:58:42 yaci-viewer-1  |   VITE v6.0.6  ready in 881 ms
+2025-01-30 17:58:42 yaci-viewer-1  | 
+2025-01-30 17:58:42 yaci-viewer-1  |   ➜  Local:   http://localhost:5173/
+2025-01-30 17:58:42 yaci-viewer-1  |   ➜  Network: http://172.18.0.2:5173/
+2025-01-31 01:46:30 yaci-viewer-1  | Browserslist: caniuse-lite is outdated. Please run:
+2025-01-31 01:46:30 yaci-viewer-1  |   npx update-browserslist-db@latest
+2025-01-31 01:46:30 yaci-viewer-1  |   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+2025-01-31 01:46:30 yaci-viewer-1  | 
+2025-01-31 01:46:30 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-31 01:46:30 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-31 01:46:30 yaci-viewer-1  | ╰─ ❤︎ Support daisyUI project:https://opencollective.com/daisyui
+2025-01-31 01:46:30 yaci-viewer-1  | 
+2025-01-31 01:46:30 yaci-viewer-1  | 
+2025-01-31 01:46:30 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-31 01:46:30 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-31 01:46:30 yaci-viewer-1  | ╰─ ★ Star daisyUI on GitHubhttps://github.com/saadeghi/daisyui
+2025-01-31 01:46:30 yaci-viewer-1  | 
+2025-01-31 01:46:30 yaci-viewer-1  | 8:16:30 PM [vite-plugin-svelte] src/routes/blocks/Blocks.svelte:40:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-31 01:46:30 yaci-viewer-1  | 8:16:30 PM [vite-plugin-svelte] src/routes/transactions/Transactions.svelte:32:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-31 01:46:30 yaci-viewer-1  | 8:16:30 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-31 01:46:30 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-31 01:46:30 yaci-viewer-1  | 8:16:30 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 A form label must be associated with a control
+2025-01-31 01:46:30 yaci-viewer-1  | https://svelte.dev/e/a11y_label_has_associated_control
+2025-01-31 01:46:30 yaci-viewer-1  | 8:16:30 PM [vite-plugin-svelte] src/components/Nav.svelte:44:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-31 01:46:30 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-31 01:46:30 yaci-viewer-1  | 
+2025-01-31 01:46:30 yaci-viewer-1  | 🌼   daisyUI 4.12.10
+2025-01-31 01:46:31 yaci-viewer-1  | ├─ ✔︎ 2 themes addedhttps://daisyui.com/docs/themes
+2025-01-31 01:46:31 yaci-viewer-1  | ╰─ ★ Star daisyUI on GitHubhttps://github.com/saadeghi/daisyui
+2025-01-31 01:46:31 yaci-viewer-1  | 
+2025-01-31 01:46:31 yaci-viewer-1  | 8:16:31 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-31 01:46:31 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-31 01:46:31 yaci-viewer-1  | 8:16:31 PM [vite-plugin-svelte] src/components/Nav.svelte:38:12 A form label must be associated with a control
+2025-01-31 01:46:31 yaci-viewer-1  | https://svelte.dev/e/a11y_label_has_associated_control
+2025-01-31 01:46:31 yaci-viewer-1  | 8:16:31 PM [vite-plugin-svelte] src/components/Nav.svelte:44:12 noninteractive element cannot have nonnegative tabIndex value
+2025-01-31 01:46:31 yaci-viewer-1  | https://svelte.dev/e/a11y_no_noninteractive_tabindex
+2025-01-31 01:46:31 yaci-viewer-1  | 8:16:31 PM [vite-plugin-svelte] src/routes/blocks/Blocks.svelte:40:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-31 01:46:31 yaci-viewer-1  | 8:16:31 PM [vite-plugin-svelte] src/routes/transactions/Transactions.svelte:32:1 No scopable elements found in template. If you're using global styles in the style tag, you should move it into an external stylesheet file and import it in JS. See https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#where-should-i-put-my-global-styles.
+2025-01-31 01:46:33 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 01:46:33 yaci-viewer-1  | [
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: 23794,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 272626
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: 22945,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 295222
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: 22589,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 294958
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: 22013,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: 21430,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '1c2498914a63269e7d4ab7f6b7d493d0d41a87b0cacaab7412c591219dcc21c4',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qp0qu4cypvrwn4c7pu50zf3x9qu2drdsk545l5dnsa7a5gsr6htafuvutm36rm23hdnsw7w7r82q4tljuh55drxqt30q6vm8vs'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '6712b9e13e7e433397ea2888899b8a5ba57b12c427dc72f1c1c684ac05f32b1a',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qq5tscksq8n2vjszkdtqe0zn9645246ex3mu88x9y0stnlzjwyqgnrq3uuc3jst3hyy244rrwuxke0m7ezr3cn93u5vq0rfv8t'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: 'c408f9103ba7e0f207e211b53f5cca42f79f3e9c9d24024731d648be909497a8',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qqe5df3su6tjhuuve6rjr8d36ccxre7dxfx2mzxp3egy72vsetrga9el2yjke2fcdql6f6sjzu7h6prajs8mhzpm6r5qpkfq9m'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '5b5b9626afd8846240e3c05de23634b1b6e76620be69b5a249670071b3c3fb60',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qpgkf2ccvu2uscmcqgy4dkyjeae0va3kk7yk04nuleekq3u3xrwgnnm6n0yfzz0e8x2kkehex2f6mexrjg9h9l2qhm4qkms53s'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '8cc2f88405991a5dfb8cb6962fe44f56510d93405cfe9ea23baf1f6bf29f3011',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qp38kfvcm4c39yt8sfgkp3tyqe736fz708xzxuy5s9w9ev43yh3sash5eeq9ngrfuzxrekpvmly52xlmyfy8lz39emhs2spswl'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '6d36c0e2f304a5c27b85b3f04e95fc015566d35aef5f061c17c70e3e8b9ee508',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       'addr_test1qryvgass5dsrf2kxl3vgfz76uhp83kv5lagzcp29tcana68ca5aqa6swlq6llfamln09tal7n5kvt4275ckwedpt4v7q48uhex'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   },
+2025-01-31 01:46:33 yaci-viewer-1  |   {
+2025-01-31 01:46:33 yaci-viewer-1  |     tx_hash: '8c1cb0c06b48dc4238775f81f3276634fbc243131323be95767055ef3d095515',
+2025-01-31 01:46:33 yaci-viewer-1  |     block_number: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     slot: -1,
+2025-01-31 01:46:33 yaci-viewer-1  |     output_addresses: [
+2025-01-31 01:46:33 yaci-viewer-1  |       '2657WMsDfac6EtPTiPEptLHDYUVYD5DtRpTmVWb6X95beFrKXqPULmyvCwmCxZEGN'
+2025-01-31 01:46:33 yaci-viewer-1  |     ],
+2025-01-31 01:46:33 yaci-viewer-1  |     total_output: 3340000000,
+2025-01-31 01:46:33 yaci-viewer-1  |     fee: 0
+2025-01-31 01:46:33 yaci-viewer-1  |   }
+2025-01-31 01:46:33 yaci-viewer-1  | ]
+2025-01-31 01:46:40 yaci-viewer-1  | {
+2025-01-31 01:46:40 yaci-viewer-1  |   hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 01:46:40 yaci-viewer-1  |   block_height: -1,
+2025-01-31 01:46:40 yaci-viewer-1  |   slot: -1,
+2025-01-31 01:46:40 yaci-viewer-1  |   inputs: [],
+2025-01-31 01:46:40 yaci-viewer-1  |   outputs: [
+2025-01-31 01:46:40 yaci-viewer-1  |     {
+2025-01-31 01:46:40 yaci-viewer-1  |       tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 01:46:40 yaci-viewer-1  |       output_index: 0,
+2025-01-31 01:46:40 yaci-viewer-1  |       address: 'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql',
+2025-01-31 01:46:40 yaci-viewer-1  |       stake_address: null,
+2025-01-31 01:46:40 yaci-viewer-1  |       amount: [Array],
+2025-01-31 01:46:40 yaci-viewer-1  |       data_hash: null,
+2025-01-31 01:46:40 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 01:46:40 yaci-viewer-1  |       script_ref: null,
+2025-01-31 01:46:40 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 01:46:40 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 01:46:40 yaci-viewer-1  |     }
+2025-01-31 01:46:40 yaci-viewer-1  |   ],
+2025-01-31 01:46:40 yaci-viewer-1  |   utxo_count: 0,
+2025-01-31 01:46:40 yaci-viewer-1  |   total_output: 10000000000,
+2025-01-31 01:46:40 yaci-viewer-1  |   fees: 0,
+2025-01-31 01:46:40 yaci-viewer-1  |   ttl: 0,
+2025-01-31 01:46:40 yaci-viewer-1  |   auxiliary_data_hash: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   validity_interval_start: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   script_data_hash: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-31 01:46:40 yaci-viewer-1  |   required_signers: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   netowrk_id: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 01:46:40 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 01:46:40 yaci-viewer-1  |   invalid: false
+2025-01-31 01:46:40 yaci-viewer-1  | }
+2025-01-31 01:46:40 yaci-viewer-1  | []
+2025-01-31 01:46:40 yaci-viewer-1  | []
+2025-01-31 01:46:42 yaci-viewer-1  | {
+2025-01-31 01:46:42 yaci-viewer-1  |   hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 01:46:42 yaci-viewer-1  |   block_height: 23194,
+2025-01-31 01:46:42 yaci-viewer-1  |   slot: 23794,
+2025-01-31 01:46:42 yaci-viewer-1  |   inputs: [
+2025-01-31 01:46:42 yaci-viewer-1  |     {
+2025-01-31 01:46:42 yaci-viewer-1  |       tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 01:46:42 yaci-viewer-1  |       output_index: 1,
+2025-01-31 01:46:42 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 01:46:42 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 01:46:42 yaci-viewer-1  |       amount: [Array],
+2025-01-31 01:46:42 yaci-viewer-1  |       data_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       script_ref: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 01:46:42 yaci-viewer-1  |     }
+2025-01-31 01:46:42 yaci-viewer-1  |   ],
+2025-01-31 01:46:42 yaci-viewer-1  |   outputs: [
+2025-01-31 01:46:42 yaci-viewer-1  |     {
+2025-01-31 01:46:42 yaci-viewer-1  |       tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 01:46:42 yaci-viewer-1  |       output_index: 0,
+2025-01-31 01:46:42 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 01:46:42 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 01:46:42 yaci-viewer-1  |       amount: [Array],
+2025-01-31 01:46:42 yaci-viewer-1  |       data_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       script_ref: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 01:46:42 yaci-viewer-1  |     },
+2025-01-31 01:46:42 yaci-viewer-1  |     {
+2025-01-31 01:46:42 yaci-viewer-1  |       tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 01:46:42 yaci-viewer-1  |       output_index: 1,
+2025-01-31 01:46:42 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 01:46:42 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 01:46:42 yaci-viewer-1  |       amount: [Array],
+2025-01-31 01:46:42 yaci-viewer-1  |       data_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       script_ref: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 01:46:42 yaci-viewer-1  |     }
+2025-01-31 01:46:42 yaci-viewer-1  |   ],
+2025-01-31 01:46:42 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 01:46:42 yaci-viewer-1  |   total_output: 9996758074,
+2025-01-31 01:46:42 yaci-viewer-1  |   fees: 272626,
+2025-01-31 01:46:42 yaci-viewer-1  |   ttl: 0,
+2025-01-31 01:46:42 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 01:46:42 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 01:46:42 yaci-viewer-1  |   script_data_hash: '04be8508e0d327ff18e64b06d647acee13909b2149daa5a02c752f29e579bcc2',
+2025-01-31 01:46:42 yaci-viewer-1  |   collateral_inputs: [
+2025-01-31 01:46:42 yaci-viewer-1  |     {
+2025-01-31 01:46:42 yaci-viewer-1  |       tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 01:46:42 yaci-viewer-1  |       output_index: 0,
+2025-01-31 01:46:42 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 01:46:42 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 01:46:42 yaci-viewer-1  |       amount: [Array],
+2025-01-31 01:46:42 yaci-viewer-1  |       data_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       script_ref: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 01:46:42 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 01:46:42 yaci-viewer-1  |     }
+2025-01-31 01:46:42 yaci-viewer-1  |   ],
+2025-01-31 01:46:42 yaci-viewer-1  |   required_signers: null,
+2025-01-31 01:46:42 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 01:46:42 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 01:46:42 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 01:46:42 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 01:46:42 yaci-viewer-1  |   invalid: false
+2025-01-31 01:46:42 yaci-viewer-1  | }
+2025-01-31 01:46:42 yaci-viewer-1  | [
+2025-01-31 01:46:42 yaci-viewer-1  |   {
+2025-01-31 01:46:42 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 01:46:42 yaci-viewer-1  |     script_hash: 'c43464ed1ea241c6e105b7551e696883f7ca2f7158d66808d515e12c',
+2025-01-31 01:46:42 yaci-viewer-1  |     script_content: '{"type":"PlutusScriptV2","content":"5905a85905a501000032323232323232323232323232323232323232323232323232322232325333573466e1d20c601375a0082240022a66ae71240103505435001653335734602e603a0022646464246600200600460246ae84d5d1180f001a999ab9a3018301e001132323232323232323232323232323232323232323232321233333333333300101801601401201000e00c009007005003002302c357426ae88008ccc085d710009aba10013574400466603e04840026ae84004d5d10011980f3ae357420026ae8800d4ccd5cd1813981680089919191909198008020012999ab9a302a30300011323212330010030023018357426ae88c0c0008cc061d69aba1302f00102937546ae84d5d11817001a999ab9a3028302e0011323212330010030023016357426ae88c0b8008cc059d69aba1302d00102737546ae84c0b0004098dd51aba10013574400466603003eeb4d5d08009aba20023301701c357420026ae88008ccc051d70099aba100135744004666024eb8044d5d08009aba20023301100c357420026ae88008cc03c024d5d08009aba2301e0023300d00735742603a00202e6ea8d5d0980e00080b1baa00123253335734602c00222440042a666ae68c05400401c050c068dd50009119192999ab9a301800111222001153335734602e0022642444600600860086ae84c06c00854ccd5cd180b0008891100100a980d8009baa001232533357346026603200226464246600200600460086ae84d5d1180c80118081aba130180010123754002464a666ae68c048c0600044c8c8c8c8c8c8c8c8c848cccc00402401c00c008cc02dd71aba135744008a666ae68c06c0044c84888c008010d5d0980f0010a999ab9a301a00113212223001004375c6ae84c07800854ccd5cd180c8008891100180c180f0009baa357420026ae88008ccc025d70041aba1001357446032006a666ae68c04cc0640044c8c848cc00400c008cc01403cd5d09aba23019002300f3574260300020246ea8d5d0980b8008089baa001223232533357346026002264244600400660086ae84c06000854ccd5cd180a000802809180c0009baa00111220013300175ceb4888cc04c88cccd55cf8009004119191919806891980080180118031aba20053007301900230073019001357420040106eac00488cc04488cccd55cf800900311980418029aba100230033574400400c6eb00044880084800488488cc00401000c8c8c94ccd5cd180680089909111180200298021aba1300f002153335734601800226424444600400a600a6ae84c03c00854ccd5cd180580089909111180080298039aba1300f002153335734601400226424444600600a6eb8d5d0980780100498078009baa001232325333573466e1d200c00111222222200315333573466e1d200a00111222222200415333573466e1d2008001132321222222233001009008375a6ae84d5d118078019bae35742601c0042a666ae68c0300044c8c848888888cc008024020dd71aba135744601e0066eb8d5d098070010a999ab9a300b001132321222222233006009008375c6ae84d5d1180780198021aba1300e002153335734601400226424444444600e01060086ae84c03800854ccd5cd180480089909111111180280418021aba1300e002008300e001375400246464a666ae68c0240044c8c8c8c8488ccc00401801000cdd69aba1357440046eb4d5d08009aba2300e003375a6ae84c03400854ccd5cd1804000899091180100198021aba1300d002007300d001375400246464a666ae68c0200044c8488c00400cdd71aba1300c002153335734600e00226424460040066eb8d5d0980600100318060009baa00123253335734600a60160022646424660020060046eb4d5d09aba2300b00230033574260140020086ea80048c94ccd5cd1802180500089bae3574260120020066ea800454cd5ce249035054310016370e90001b8748008dc3a40086e1d20062323001001223300330020020015573caae75"}',
+2025-01-31 01:46:42 yaci-viewer-1  |     type: 'PLUTUS_V2',
+2025-01-31 01:46:42 yaci-viewer-1  |     redeemer: { tag: 'mint', index: 0, data: '1863', ex_units: [Object] },
+2025-01-31 01:46:42 yaci-viewer-1  |     datum: null,
+2025-01-31 01:46:42 yaci-viewer-1  |     datum_hash: null
+2025-01-31 01:46:42 yaci-viewer-1  |   }
+2025-01-31 01:46:42 yaci-viewer-1  | ]
+2025-01-31 01:46:42 yaci-viewer-1  | []
+2025-01-31 03:26:05 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:26:05 yaci-viewer-1  | [
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '6712b9e13e7e433397ea2888899b8a5ba57b12c427dc72f1c1c684ac05f32b1a',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qq5tscksq8n2vjszkdtqe0zn9645246ex3mu88x9y0stnlzjwyqgnrq3uuc3jst3hyy244rrwuxke0m7ezr3cn93u5vq0rfv8t'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '1c2498914a63269e7d4ab7f6b7d493d0d41a87b0cacaab7412c591219dcc21c4',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qp0qu4cypvrwn4c7pu50zf3x9qu2drdsk545l5dnsa7a5gsr6htafuvutm36rm23hdnsw7w7r82q4tljuh55drxqt30q6vm8vs'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '27bc6c090c20dc1fe66f07ac200d5e97493a11c9554f3fc92f0ea7036fb11df9',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qrrv7774puml0exvzc0uqrc8axezy6a925kv4ucdx906qy6mhjxtmx44x70ndr7g6dgqcdaf69q8fnrdmtvfud5x7rsqvsuqx5'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   },
+2025-01-31 03:26:05 yaci-viewer-1  |   {
+2025-01-31 03:26:05 yaci-viewer-1  |     tx_hash: '5b5b9626afd8846240e3c05de23634b1b6e76620be69b5a249670071b3c3fb60',
+2025-01-31 03:26:05 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:26:05 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:26:05 yaci-viewer-1  |       'addr_test1qpgkf2ccvu2uscmcqgy4dkyjeae0va3kk7yk04nuleekq3u3xrwgnnm6n0yfzz0e8x2kkehex2f6mexrjg9h9l2qhm4qkms53s'
+2025-01-31 03:26:05 yaci-viewer-1  |     ],
+2025-01-31 03:26:05 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:26:05 yaci-viewer-1  |     fee: 0
+2025-01-31 03:26:05 yaci-viewer-1  |   }
+2025-01-31 03:26:05 yaci-viewer-1  | ]
+2025-01-31 03:27:28 yaci-viewer-1  | {
+2025-01-31 03:27:28 yaci-viewer-1  |   hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:27:28 yaci-viewer-1  |   block_height: 21989,
+2025-01-31 03:27:28 yaci-viewer-1  |   slot: 22589,
+2025-01-31 03:27:28 yaci-viewer-1  |   inputs: [
+2025-01-31 03:27:28 yaci-viewer-1  |     {
+2025-01-31 03:27:28 yaci-viewer-1  |       tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:27:28 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:27:28 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:27:28 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:27:28 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:27:28 yaci-viewer-1  |     }
+2025-01-31 03:27:28 yaci-viewer-1  |   ],
+2025-01-31 03:27:28 yaci-viewer-1  |   outputs: [
+2025-01-31 03:27:28 yaci-viewer-1  |     {
+2025-01-31 03:27:28 yaci-viewer-1  |       tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:27:28 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:27:28 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:27:28 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:27:28 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:27:28 yaci-viewer-1  |     },
+2025-01-31 03:27:28 yaci-viewer-1  |     {
+2025-01-31 03:27:28 yaci-viewer-1  |       tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:27:28 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:27:28 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:27:28 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:27:28 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:27:28 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:27:28 yaci-viewer-1  |     }
+2025-01-31 03:27:28 yaci-viewer-1  |   ],
+2025-01-31 03:27:28 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:27:28 yaci-viewer-1  |   total_output: 9999705042,
+2025-01-31 03:27:28 yaci-viewer-1  |   fees: 294958,
+2025-01-31 03:27:28 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:27:28 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |   script_data_hash: '182b220e057dc81ea2b3052f32d6f989bc5890b6248dcc02207826df589276b0',
+2025-01-31 03:27:28 yaci-viewer-1  |   collateral_inputs: [
+2025-01-31 03:27:28 yaci-viewer-1  |     {
+2025-01-31 03:27:28 yaci-viewer-1  |       tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:27:28 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:27:28 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:27:28 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:27:28 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:27:28 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:27:28 yaci-viewer-1  |     }
+2025-01-31 03:27:28 yaci-viewer-1  |   ],
+2025-01-31 03:27:28 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:27:28 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:27:28 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:27:28 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:27:28 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:27:28 yaci-viewer-1  |   invalid: false
+2025-01-31 03:27:28 yaci-viewer-1  | }
+2025-01-31 03:27:28 yaci-viewer-1  | [
+2025-01-31 03:27:28 yaci-viewer-1  |   {
+2025-01-31 03:27:28 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:27:28 yaci-viewer-1  |     script_hash: '50fd98cedacc232ee8e586378922a44a5bc5ba584deb26f3af0ee6cc',
+2025-01-31 03:27:28 yaci-viewer-1  |     script_content: '{"type":"PlutusScriptV2","content":"5907195907160100003232323232323232323232323232323232323232323232323232323232323232223232323253355335533533355330242211222533500113500301e2213335005022300400233355300702500500400101e12330012233300a01e0020010022325333573466e3cd40040752201200827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c001333573466e1d20003500101b01c01a0193500101c3500222222222222200c01613357389201115554784f206e6f7420636f6e73756d65640001815335533533302422253350011002221350022233007333302b222253350011002221350022253335734605e002266601000e00c006266601000e660562466600201000600400c00600400c0020060346a00444444444444401002e4426a004444a66a0082a666ae68cdc780124410e53696465636861696e41646d696e0013335734604c00203e03a0384403c02c266ae712411377726f6e6720616d6f756e74206d696e7465640001801701d1533573892103505435001630060183553335734603c60480042646464246600200600460206ae84d5d118128022999ab9a301f3025001132323232323232323232323232323232323232323232321233333333333300101801601401201000e00c009007005003002302a357426ae88008ccc089d710009aba10013574400466604004440026ae84004d5d10011980fbae357420026ae8800d4ccd5cd1817181a00089919191909198008020012999ab9a30313037001132321233001003002301a357426ae88c0dc008cc069d69aba1303600103037546ae84d5d1181a801a999ab9a302f30350011323212330010030023018357426ae88c0d4008cc061d69aba1303400102e37546ae84c0cc0040b4dd51aba10013574400466603203aeb4d5d08009aba20023301801a357420026ae88008ccc055d700a1aba100135744004666026eb8048d5d08009aba20023301200e357420026ae88008cc04002cd5d08009aba230250023300e00935742604800203c6ea8d5d0981180100e80ca999ab9a301d302337540060340386ea80048cc004894cd400804840040488c94ccd5cd180d8008080a999ab9a301a001011019301f3754002446464a666ae68c0740044488800454ccd5cd180e0008990911180180218021aba1302000215333573460360022244400403460400026ea80048c94ccd5cd180c180f00089919091980080180118021aba135744603c00460186ae84c07400405cdd50009192999ab9a3017301d00113232323232323232321233330010090070030023300b75c6ae84d5d10022999ab9a3020001132122230020043574260460042a666ae68c07c0044c84888c004010dd71aba13023002153335734603c0022244400603a60460026ea8d5d08009aba200233300875c00e6ae84004d5d1180f001a999ab9a3018301e0011323212330010030023300500b357426ae88c078008c02cd5d0980e80080b9baa35742603800202c6ea800488c8c94ccd5cd180c000899091180100198021aba1301d002153335734603200201e02e603a0026ea8004cc005d73ad222330192233335573e002402446464646602e2466002006004600c6ae88014c01cc07c008c01cc07c004d5d080100a9bab00122330172233335573e0024020466024600a6ae84008c00cd5d10010099bac0012323253335734602c00226424444600800a60086ae84c06000854ccd5cd180a80089909111180100298029aba13018002153335734602800226424444600200a600e6ae84c06000854ccd5cd18098008990911118018029bae35742603000402460300026ea80048c8c94ccd5cd19b874803000444888888800c54ccd5cd19b874802800444888888801054ccd5cd19b87480200044c8c848888888cc004024020dd69aba13574460300066eb8d5d0980b8010a999ab9a3015001132321222222233002009008375c6ae84d5d1180c0019bae35742602e0042a666ae68c0500044c8c848888888cc018024020dd71aba135744603000660086ae84c05c00854ccd5cd180980089909111111180380418021aba13017002153335734602400226424444444600a01060086ae84c05c008044c05c004dd5000919192999ab9a3012001132323232122333001006004003375a6ae84d5d10011bad357420026ae88c05c00cdd69aba130160021533357346022002264244600400660086ae84c058008040c058004dd5000919192999ab9a30110011321223001003375c6ae84c05400854ccd5cd180800089909118010019bae35742602a00401e602a0026ea80048c94ccd5cd1807180a0008991909198008018011bad357426ae88c050008c00cd5d098098008069baa00123253335734601a602600226eb8d5d098090008061baa001100410011001220011001220022212233001004003100112001153357389201035054310016370e90001b8748008dc3a40086e1d20062323001001223300330020020015573caae75"}',
+2025-01-31 03:27:28 yaci-viewer-1  |     type: 'PLUTUS_V2',
+2025-01-31 03:27:28 yaci-viewer-1  |     redeemer: { tag: 'mint', index: 0, data: 'd87980', ex_units: [Object] },
+2025-01-31 03:27:28 yaci-viewer-1  |     datum: null,
+2025-01-31 03:27:28 yaci-viewer-1  |     datum_hash: null
+2025-01-31 03:27:28 yaci-viewer-1  |   }
+2025-01-31 03:27:28 yaci-viewer-1  | ]
+2025-01-31 03:27:28 yaci-viewer-1  | []
+2025-01-31 03:35:02 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:35:02 yaci-viewer-1  | [
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '1c2498914a63269e7d4ab7f6b7d493d0d41a87b0cacaab7412c591219dcc21c4',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qp0qu4cypvrwn4c7pu50zf3x9qu2drdsk545l5dnsa7a5gsr6htafuvutm36rm23hdnsw7w7r82q4tljuh55drxqt30q6vm8vs'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '6793565c7c64e2a979137e7876b2c560c194a0a6372b15f1473b72e64f4e1ab8',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qrrshpppv9uq95lj89tv4vv40cwnqmx5szzcndqhvr5hjfltl4s98wsjkwpg3v4k6h2vgcvdd2xwt82stq8fcmmsft6s8dzp8f'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '8cc2f88405991a5dfb8cb6962fe44f56510d93405cfe9ea23baf1f6bf29f3011',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qp38kfvcm4c39yt8sfgkp3tyqe736fz708xzxuy5s9w9ev43yh3sash5eeq9ngrfuzxrekpvmly52xlmyfy8lz39emhs2spswl'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   },
+2025-01-31 03:35:02 yaci-viewer-1  |   {
+2025-01-31 03:35:02 yaci-viewer-1  |     tx_hash: '27bc6c090c20dc1fe66f07ac200d5e97493a11c9554f3fc92f0ea7036fb11df9',
+2025-01-31 03:35:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:35:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:35:02 yaci-viewer-1  |       'addr_test1qrrv7774puml0exvzc0uqrc8axezy6a925kv4ucdx906qy6mhjxtmx44x70ndr7g6dgqcdaf69q8fnrdmtvfud5x7rsqvsuqx5'
+2025-01-31 03:35:02 yaci-viewer-1  |     ],
+2025-01-31 03:35:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:35:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:35:02 yaci-viewer-1  |   }
+2025-01-31 03:35:02 yaci-viewer-1  | ]
+2025-01-31 03:35:06 yaci-viewer-1  | {
+2025-01-31 03:35:06 yaci-viewer-1  |   hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:35:06 yaci-viewer-1  |   block_height: 22345,
+2025-01-31 03:35:06 yaci-viewer-1  |   slot: 22945,
+2025-01-31 03:35:06 yaci-viewer-1  |   inputs: [
+2025-01-31 03:35:06 yaci-viewer-1  |     {
+2025-01-31 03:35:06 yaci-viewer-1  |       tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:35:06 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:35:06 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:35:06 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:35:06 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:35:06 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:35:06 yaci-viewer-1  |     }
+2025-01-31 03:35:06 yaci-viewer-1  |   ],
+2025-01-31 03:35:06 yaci-viewer-1  |   outputs: [
+2025-01-31 03:35:06 yaci-viewer-1  |     {
+2025-01-31 03:35:06 yaci-viewer-1  |       tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:35:06 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:35:06 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:35:06 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:35:06 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:35:06 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:35:06 yaci-viewer-1  |     },
+2025-01-31 03:35:06 yaci-viewer-1  |     {
+2025-01-31 03:35:06 yaci-viewer-1  |       tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:35:06 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:35:06 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:35:06 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:35:06 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:35:06 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:35:06 yaci-viewer-1  |     }
+2025-01-31 03:35:06 yaci-viewer-1  |   ],
+2025-01-31 03:35:06 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:35:06 yaci-viewer-1  |   total_output: 9998224570,
+2025-01-31 03:35:06 yaci-viewer-1  |   fees: 295222,
+2025-01-31 03:35:06 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:35:06 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:35:06 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:35:06 yaci-viewer-1  |   script_data_hash: '182b220e057dc81ea2b3052f32d6f989bc5890b6248dcc02207826df589276b0',
+2025-01-31 03:35:06 yaci-viewer-1  |   collateral_inputs: [
+2025-01-31 03:35:06 yaci-viewer-1  |     {
+2025-01-31 03:35:06 yaci-viewer-1  |       tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:35:06 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:35:06 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:35:06 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:35:06 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:35:06 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:35:06 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:35:06 yaci-viewer-1  |     }
+2025-01-31 03:35:06 yaci-viewer-1  |   ],
+2025-01-31 03:35:06 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:35:06 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:35:06 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:35:06 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:35:06 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:35:06 yaci-viewer-1  |   invalid: false
+2025-01-31 03:35:06 yaci-viewer-1  | }
+2025-01-31 03:35:06 yaci-viewer-1  | [
+2025-01-31 03:35:06 yaci-viewer-1  |   {
+2025-01-31 03:35:06 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:35:06 yaci-viewer-1  |     script_hash: 'e050c2031b048036d0da5ef90147579944adf9cc1b3fb04ee2bcfebc',
+2025-01-31 03:35:06 yaci-viewer-1  |     script_content: '{"type":"PlutusScriptV2","content":"59071b5907180100003232323232323232323232323232323232323232323232323232323232323232223232323253355335533533355330242211222533500113500301e2213335005022300400233355300702500500400101e12330012233300a01e0020010022325333573466e3cd4004075220120dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683001333573466e1d20023500101b01c01a0193500101c3500222222222222200c01613357389201115554784f206e6f7420636f6e73756d65640001815335533533302422253350011002221350022233007333302b222253350011002221350022253335734605e002266601000e00c006266601000e660562466600201000600400c00600400c0020060346a00444444444444401002e4426a004444a66a0082a666ae68cdc780124411053696465636861696e446563696465720013335734604c00203e03a0384403c02c266ae712411377726f6e6720616d6f756e74206d696e7465640001801701d1533573892103505435001630060183553335734603c60480042646464246600200600460206ae84d5d118128022999ab9a301f3025001132323232323232323232323232323232323232323232321233333333333300101801601401201000e00c009007005003002302a357426ae88008ccc089d710009aba10013574400466604004440026ae84004d5d10011980fbae357420026ae8800d4ccd5cd1817181a00089919191909198008020012999ab9a30313037001132321233001003002301a357426ae88c0dc008cc069d69aba1303600103037546ae84d5d1181a801a999ab9a302f30350011323212330010030023018357426ae88c0d4008cc061d69aba1303400102e37546ae84c0cc0040b4dd51aba10013574400466603203aeb4d5d08009aba20023301801a357420026ae88008ccc055d700a1aba100135744004666026eb8048d5d08009aba20023301200e357420026ae88008cc04002cd5d08009aba230250023300e00935742604800203c6ea8d5d0981180100e80ca999ab9a301d302337540060340386ea80048cc004894cd400804840040488c94ccd5cd180d8008080a999ab9a301a001011019301f3754002446464a666ae68c0740044488800454ccd5cd180e0008990911180180218021aba1302000215333573460360022244400403460400026ea80048c94ccd5cd180c180f00089919091980080180118021aba135744603c00460186ae84c07400405cdd50009192999ab9a3017301d00113232323232323232321233330010090070030023300b75c6ae84d5d10022999ab9a3020001132122230020043574260460042a666ae68c07c0044c84888c004010dd71aba13023002153335734603c0022244400603a60460026ea8d5d08009aba200233300875c00e6ae84004d5d1180f001a999ab9a3018301e0011323212330010030023300500b357426ae88c078008c02cd5d0980e80080b9baa35742603800202c6ea800488c8c94ccd5cd180c000899091180100198021aba1301d002153335734603200201e02e603a0026ea8004cc005d73ad222330192233335573e002402446464646602e2466002006004600c6ae88014c01cc07c008c01cc07c004d5d080100a9bab00122330172233335573e0024020466024600a6ae84008c00cd5d10010099bac0012323253335734602c00226424444600800a60086ae84c06000854ccd5cd180a80089909111180100298029aba13018002153335734602800226424444600200a600e6ae84c06000854ccd5cd18098008990911118018029bae35742603000402460300026ea80048c8c94ccd5cd19b874803000444888888800c54ccd5cd19b874802800444888888801054ccd5cd19b87480200044c8c848888888cc004024020dd69aba13574460300066eb8d5d0980b8010a999ab9a3015001132321222222233002009008375c6ae84d5d1180c0019bae35742602e0042a666ae68c0500044c8c848888888cc018024020dd71aba135744603000660086ae84c05c00854ccd5cd180980089909111111180380418021aba13017002153335734602400226424444444600a01060086ae84c05c008044c05c004dd5000919192999ab9a3012001132323232122333001006004003375a6ae84d5d10011bad357420026ae88c05c00cdd69aba130160021533357346022002264244600400660086ae84c058008040c058004dd5000919192999ab9a30110011321223001003375c6ae84c05400854ccd5cd180800089909118010019bae35742602a00401e602a0026ea80048c94ccd5cd1807180a0008991909198008018011bad357426ae88c050008c00cd5d098098008069baa00123253335734601a602600226eb8d5d098090008061baa001100410011001220011001220022212233001004003100112001153357389201035054310016370e90001b8748008dc3a40086e1d20062323001001223300330020020015573caae75"}',
+2025-01-31 03:35:06 yaci-viewer-1  |     type: 'PLUTUS_V2',
+2025-01-31 03:35:06 yaci-viewer-1  |     redeemer: { tag: 'mint', index: 0, data: 'd87980', ex_units: [Object] },
+2025-01-31 03:35:06 yaci-viewer-1  |     datum: null,
+2025-01-31 03:35:06 yaci-viewer-1  |     datum_hash: null
+2025-01-31 03:35:06 yaci-viewer-1  |   }
+2025-01-31 03:35:06 yaci-viewer-1  | ]
+2025-01-31 03:35:06 yaci-viewer-1  | []
+2025-01-31 03:36:54 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:36:54 yaci-viewer-1  | [
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '8c1cb0c06b48dc4238775f81f3276634fbc243131323be95767055ef3d095515',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       '2657WMsDfac6EtPTiPEptLHDYUVYD5DtRpTmVWb6X95beFrKXqPULmyvCwmCxZEGN'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 3340000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '6d36c0e2f304a5c27b85b3f04e95fc015566d35aef5f061c17c70e3e8b9ee508',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qryvgass5dsrf2kxl3vgfz76uhp83kv5lagzcp29tcana68ca5aqa6swlq6llfamln09tal7n5kvt4275ckwedpt4v7q48uhex'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'dc0d0d0a13e683e443c575147ec12136e5ac6a4f994cd4189d4d25bed541c44d',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qpqy3lufef8c3en9nrnzp2svwy5vy9zangvp46dy4qw23clgfxhn3pqv243d6wptud7fuaj5tjqer7wc7m036gx0emsqaqa8te'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'aae852d5d2b08c0a937a319fec0d9933bc3bc67b9d0a6bfd4001997b169364b3',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qr9xuxclxgx4gw3y4h4tcz4yvfmrt3e5nd3elphhf00a67xnrv5vjcv6tzehj2nnjj4cth4ndzyuf4asvvkgzeac2hfqk0za93'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '8cc2f88405991a5dfb8cb6962fe44f56510d93405cfe9ea23baf1f6bf29f3011',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qp38kfvcm4c39yt8sfgkp3tyqe736fz708xzxuy5s9w9ev43yh3sash5eeq9ngrfuzxrekpvmly52xlmyfy8lz39emhs2spswl'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '27bc6c090c20dc1fe66f07ac200d5e97493a11c9554f3fc92f0ea7036fb11df9',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qrrv7774puml0exvzc0uqrc8axezy6a925kv4ucdx906qy6mhjxtmx44x70ndr7g6dgqcdaf69q8fnrdmtvfud5x7rsqvsuqx5'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '6712b9e13e7e433397ea2888899b8a5ba57b12c427dc72f1c1c684ac05f32b1a',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qq5tscksq8n2vjszkdtqe0zn9645246ex3mu88x9y0stnlzjwyqgnrq3uuc3jst3hyy244rrwuxke0m7ezr3cn93u5vq0rfv8t'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   },
+2025-01-31 03:36:54 yaci-viewer-1  |   {
+2025-01-31 03:36:54 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:36:54 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:36:54 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:36:54 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:36:54 yaci-viewer-1  |     ],
+2025-01-31 03:36:54 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:36:54 yaci-viewer-1  |     fee: 0
+2025-01-31 03:36:54 yaci-viewer-1  |   }
+2025-01-31 03:36:54 yaci-viewer-1  | ]
+2025-01-31 03:36:56 yaci-viewer-1  | {
+2025-01-31 03:36:56 yaci-viewer-1  |   hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:36:56 yaci-viewer-1  |   block_height: 23194,
+2025-01-31 03:36:56 yaci-viewer-1  |   slot: 23794,
+2025-01-31 03:36:56 yaci-viewer-1  |   inputs: [
+2025-01-31 03:36:56 yaci-viewer-1  |     {
+2025-01-31 03:36:56 yaci-viewer-1  |       tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:36:56 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:36:56 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:36:56 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:36:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:36:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:36:56 yaci-viewer-1  |     }
+2025-01-31 03:36:56 yaci-viewer-1  |   ],
+2025-01-31 03:36:56 yaci-viewer-1  |   outputs: [
+2025-01-31 03:36:56 yaci-viewer-1  |     {
+2025-01-31 03:36:56 yaci-viewer-1  |       tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:36:56 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:36:56 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:36:56 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:36:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:36:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:36:56 yaci-viewer-1  |     },
+2025-01-31 03:36:56 yaci-viewer-1  |     {
+2025-01-31 03:36:56 yaci-viewer-1  |       tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:36:56 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:36:56 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:36:56 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:36:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:36:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:36:56 yaci-viewer-1  |     }
+2025-01-31 03:36:56 yaci-viewer-1  |   ],
+2025-01-31 03:36:56 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:36:56 yaci-viewer-1  |   total_output: 9996758074,
+2025-01-31 03:36:56 yaci-viewer-1  |   fees: 272626,
+2025-01-31 03:36:56 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:36:56 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:36:56 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:36:56 yaci-viewer-1  |   script_data_hash: '04be8508e0d327ff18e64b06d647acee13909b2149daa5a02c752f29e579bcc2',
+2025-01-31 03:36:56 yaci-viewer-1  |   collateral_inputs: [
+2025-01-31 03:36:56 yaci-viewer-1  |     {
+2025-01-31 03:36:56 yaci-viewer-1  |       tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:36:56 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:36:56 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:36:56 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:36:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:36:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:36:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:36:56 yaci-viewer-1  |     }
+2025-01-31 03:36:56 yaci-viewer-1  |   ],
+2025-01-31 03:36:56 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:36:56 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:36:56 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:36:56 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:36:56 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:36:56 yaci-viewer-1  |   invalid: false
+2025-01-31 03:36:56 yaci-viewer-1  | }
+2025-01-31 03:36:56 yaci-viewer-1  | [
+2025-01-31 03:36:56 yaci-viewer-1  |   {
+2025-01-31 03:36:56 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:36:56 yaci-viewer-1  |     script_hash: 'c43464ed1ea241c6e105b7551e696883f7ca2f7158d66808d515e12c',
+2025-01-31 03:36:56 yaci-viewer-1  |     script_content: '{"type":"PlutusScriptV2","content":"5905a85905a501000032323232323232323232323232323232323232323232323232322232325333573466e1d20c601375a0082240022a66ae71240103505435001653335734602e603a0022646464246600200600460246ae84d5d1180f001a999ab9a3018301e001132323232323232323232323232323232323232323232321233333333333300101801601401201000e00c009007005003002302c357426ae88008ccc085d710009aba10013574400466603e04840026ae84004d5d10011980f3ae357420026ae8800d4ccd5cd1813981680089919191909198008020012999ab9a302a30300011323212330010030023018357426ae88c0c0008cc061d69aba1302f00102937546ae84d5d11817001a999ab9a3028302e0011323212330010030023016357426ae88c0b8008cc059d69aba1302d00102737546ae84c0b0004098dd51aba10013574400466603003eeb4d5d08009aba20023301701c357420026ae88008ccc051d70099aba100135744004666024eb8044d5d08009aba20023301100c357420026ae88008cc03c024d5d08009aba2301e0023300d00735742603a00202e6ea8d5d0980e00080b1baa00123253335734602c00222440042a666ae68c05400401c050c068dd50009119192999ab9a301800111222001153335734602e0022642444600600860086ae84c06c00854ccd5cd180b0008891100100a980d8009baa001232533357346026603200226464246600200600460086ae84d5d1180c80118081aba130180010123754002464a666ae68c048c0600044c8c8c8c8c8c8c8c8c848cccc00402401c00c008cc02dd71aba135744008a666ae68c06c0044c84888c008010d5d0980f0010a999ab9a301a00113212223001004375c6ae84c07800854ccd5cd180c8008891100180c180f0009baa357420026ae88008ccc025d70041aba1001357446032006a666ae68c04cc0640044c8c848cc00400c008cc01403cd5d09aba23019002300f3574260300020246ea8d5d0980b8008089baa001223232533357346026002264244600400660086ae84c06000854ccd5cd180a000802809180c0009baa00111220013300175ceb4888cc04c88cccd55cf8009004119191919806891980080180118031aba20053007301900230073019001357420040106eac00488cc04488cccd55cf800900311980418029aba100230033574400400c6eb00044880084800488488cc00401000c8c8c94ccd5cd180680089909111180200298021aba1300f002153335734601800226424444600400a600a6ae84c03c00854ccd5cd180580089909111180080298039aba1300f002153335734601400226424444600600a6eb8d5d0980780100498078009baa001232325333573466e1d200c00111222222200315333573466e1d200a00111222222200415333573466e1d2008001132321222222233001009008375a6ae84d5d118078019bae35742601c0042a666ae68c0300044c8c848888888cc008024020dd71aba135744601e0066eb8d5d098070010a999ab9a300b001132321222222233006009008375c6ae84d5d1180780198021aba1300e002153335734601400226424444444600e01060086ae84c03800854ccd5cd180480089909111111180280418021aba1300e002008300e001375400246464a666ae68c0240044c8c8c8c8488ccc00401801000cdd69aba1357440046eb4d5d08009aba2300e003375a6ae84c03400854ccd5cd1804000899091180100198021aba1300d002007300d001375400246464a666ae68c0200044c8488c00400cdd71aba1300c002153335734600e00226424460040066eb8d5d0980600100318060009baa00123253335734600a60160022646424660020060046eb4d5d09aba2300b00230033574260140020086ea80048c94ccd5cd1802180500089bae3574260120020066ea800454cd5ce249035054310016370e90001b8748008dc3a40086e1d20062323001001223300330020020015573caae75"}',
+2025-01-31 03:36:56 yaci-viewer-1  |     type: 'PLUTUS_V2',
+2025-01-31 03:36:56 yaci-viewer-1  |     redeemer: { tag: 'mint', index: 0, data: '1863', ex_units: [Object] },
+2025-01-31 03:36:56 yaci-viewer-1  |     datum: null,
+2025-01-31 03:36:56 yaci-viewer-1  |     datum_hash: null
+2025-01-31 03:36:56 yaci-viewer-1  |   }
+2025-01-31 03:36:56 yaci-viewer-1  | ]
+2025-01-31 03:36:56 yaci-viewer-1  | []
+2025-01-31 03:40:14 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:40:14 yaci-viewer-1  | [
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '1c2498914a63269e7d4ab7f6b7d493d0d41a87b0cacaab7412c591219dcc21c4',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qp0qu4cypvrwn4c7pu50zf3x9qu2drdsk545l5dnsa7a5gsr6htafuvutm36rm23hdnsw7w7r82q4tljuh55drxqt30q6vm8vs'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: 'aae852d5d2b08c0a937a319fec0d9933bc3bc67b9d0a6bfd4001997b169364b3',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qr9xuxclxgx4gw3y4h4tcz4yvfmrt3e5nd3elphhf00a67xnrv5vjcv6tzehj2nnjj4cth4ndzyuf4asvvkgzeac2hfqk0za93'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '8cc2f88405991a5dfb8cb6962fe44f56510d93405cfe9ea23baf1f6bf29f3011',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qp38kfvcm4c39yt8sfgkp3tyqe736fz708xzxuy5s9w9ev43yh3sash5eeq9ngrfuzxrekpvmly52xlmyfy8lz39emhs2spswl'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   },
+2025-01-31 03:40:14 yaci-viewer-1  |   {
+2025-01-31 03:40:14 yaci-viewer-1  |     tx_hash: '5b5b9626afd8846240e3c05de23634b1b6e76620be69b5a249670071b3c3fb60',
+2025-01-31 03:40:14 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:40:14 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:40:14 yaci-viewer-1  |       'addr_test1qpgkf2ccvu2uscmcqgy4dkyjeae0va3kk7yk04nuleekq3u3xrwgnnm6n0yfzz0e8x2kkehex2f6mexrjg9h9l2qhm4qkms53s'
+2025-01-31 03:40:14 yaci-viewer-1  |     ],
+2025-01-31 03:40:14 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:40:14 yaci-viewer-1  |     fee: 0
+2025-01-31 03:40:14 yaci-viewer-1  |   }
+2025-01-31 03:40:14 yaci-viewer-1  | ]
+2025-01-31 03:40:16 yaci-viewer-1  | {
+2025-01-31 03:40:16 yaci-viewer-1  |   hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:40:16 yaci-viewer-1  |   block_height: 30244,
+2025-01-31 03:40:16 yaci-viewer-1  |   slot: 30844,
+2025-01-31 03:40:16 yaci-viewer-1  |   inputs: [
+2025-01-31 03:40:16 yaci-viewer-1  |     {
+2025-01-31 03:40:16 yaci-viewer-1  |       tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:40:16 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:40:16 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:40:16 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:40:16 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:40:16 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:40:16 yaci-viewer-1  |     }
+2025-01-31 03:40:16 yaci-viewer-1  |   ],
+2025-01-31 03:40:16 yaci-viewer-1  |   outputs: [
+2025-01-31 03:40:16 yaci-viewer-1  |     {
+2025-01-31 03:40:16 yaci-viewer-1  |       tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:40:16 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:40:16 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:40:16 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:40:16 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:40:16 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       script_ref: '82025911f65911f3010000323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323222232323232323232325335350012323223500423232322232222222222333350162533550131533533302d355010204a0320011333573466e1d200133302e009032001059051050050235001222533501d20651533533306d222533500205622135002223500122225335533533048004501d133303b00304000905e06613300b0070090140011325333573466e1ccdc098151816a80900218150008999ab9a3370e66e04c0a0c0b5404800cc0a0004174154150ccc1b48894cd400854cd400419c88400c884d400888894cd54cd54ccd400817084cc0f8004c0f0178817454cd4ccd54c19c1a0c110114c1200f8c0fc00c1701901704cc024014cc19801801c4cc02401401d403817014c8d4004888894cd407c8c854cd4ccc0d0d5405c81440e401854cd4cccc1c488894cd400c1b0884d400888894cd54cd4ccd54c1b01b4c1240e08d400488ccd54c1bc1c0c1300ec8d400488ccd40048cc155200000105423305500148000004cc11400c02054ccd400818484cc10c004c10402081881841a44ccc02801402001d4048d5405c8144c164d400888cc170ccd4cc1cc8848894cd40041988854cd4cc01401000840044cc1a8008ccd4c01c1b001401000419488d40088888d401488894ccd5cd19b8f00800415333573466e1c01c00c54ccd5cd19b8700600213305000500106306306350033500406600115335333553062063303f04030430053500206515335333553062063303f02e235001232253353307522533500105d22135002225335333350022333350092533333335002215333333350022133050002001220662065064064220662206622153333333500320662215335330520040021330530030010672066065065220672206721533333335002206522066213305000200106406422066220661533333335001206422065206406b06322065220651533333335001206422065206406306b220652206522153333333500320662206720660650652215333573466e3c0100084cc14c00c00419c8819c8854ccccccd400c81988819c81981941948819c8854ccd5cd19b8f004002133054003001067206420642064233335009206423304f002001206420642333350092064206423304e0020012064233335009206420642064233051002001130630011300600300f213303d001307333574060e466ae80dd41aa803101c99aba037506aa00c406466ae80dd48059bb103c37620780b660a6002a02a264a66a6666666660e4444444444a66a0102a66a00e0e4442666ae68c1d8cccd54c1b81bccc19888ccd40e01c8004008d40d81c488cdc0000a400401290000360321109a8011111299aa99a9a8021119a801103591982b0008070a99aa999a801033909982480080690340a999ab9a3370e66608a0069110048810000a15333573466e1cccc11400c1041080244ccc11000c02001c19c19c19c19c4cccccccc03c014cc1c401803403002c02802402001c4cccccccc03c01403403002c02802402001c050184c1b8cd5d01ba90083357406ea0d540088148cd5d01814a80b99aba0303705933574060520086ec40e001cd5400880d4d5400880b801800454cd4cccc1c888894cd400c1b4884d400888d400488894cd4ccc10400c0280241b04ccc03001c028024054018cdc524503313030000051333035501c00600105805833714911033232320000405705705705713500122333072222533500206c22135002222253353304d0070041006133009005007002008066235001222533501d215335333031355014204e036002153355017133355305f060303c03d2533553335350012032055213303700130353058330590060052056133303235001204f037003055500f054054064133305f222533500215335001059221003221350022222533533038004500d1330090053305800600713300900500700104e133305c22253350021533500105622100322135002223500122225335533533037004500c153353335530580593035036303902f303000304d05504d13300b0073305700800913300b00700900304b1355001222200413500622333350010520520523305c2225335002056221350022253353303700200510011330070030050031333553048049302502630294891c50fd98cedacc232ee8e586378922a44a5bc5ba584deb26f3af0ee6cc00302050011350012222222222223335530530543304b2233553051056235001223305000233553054059235001223305300233350013700900038023370000290000009981700100082891a800911a80090228060890008b2999ab9a304c3053007132323212330010030023031357426ae88c1500254ccd5cd1826982a000899191919191919191919191919191919191919191919190919999999999980080c00b00a00900800700600480380280180118249aba135744004666088eb88004d5d08009aba20023330420432001357420026ae88008cc145d71aba100135744006a666ae68c170c18c0044c8c8c8c848cc0040100094ccd5cd182f9833000899190919800801801181e9aba13574460cc0046607aeb4d5d0983280082e1baa357426ae88c19000d4ccd5cd182e9832000899190919800801801181d9aba13574460c800466076eb4d5d0983180082d1baa3574260c40020b26ea8d5d08009aba200233303b04475a6ae84004d5d10011982501d9aba10013574400466606eeb80d8d5d08009aba200233303575c0686ae84004d5d1001198220189aba1001357440046608405c6ae84004d5d1182a001198200161aba1305300104a37546ae84c14801c1254ccd5cd18270008990911118020029bae3574260a20042a666ae68c1340044c848888c004014cccc0d0c0f80f4c0f9d73ae3574260a20042a666ae68c1300044c848888c00c014cccc0d1d6bad75c6ae84c14400854ccd5cd182580089919091111801002a999ab9a304c3053001132323232323232321233333001009007005003002303d357426ae88008dd71aba1001357440046eb8d5d08009aba2002375c6ae84004d5d118298011bae3574260a40020926ea8d5d0982880102418288009baa0065333573460920022646072a666ae68c124c1400044cc0e8cc0f00ecd5d098278009981e3ae357426ae88c13c004118dd51aba1304e002153335734609000206c08a609c0026ea8010dd500091a80091182419aba03004002335740a66a00242609266ae80cd40048c128cd5d018030009bb1014222304d3357406ea000ccd5d01ba80023357406ea0004dd880b1bb10131304937620246ec40488cd40048c118cd5d01ba900137620204608e66ae80dd48009bb10103303022230033002001200123335530380393015005200133553034039233300c35001202800800900122200123335530360373013003200133553032037233300a3500120264881004881000011233001225335002100102c0333302b7009000119aa981781a11a80081b800a451cc43464ed1ea241c6e105b7551e696883f7ca2f7158d66808d515e12c004881085447696d62616c73002220022223335734607266600800600400205e04e4446607e4466a0029000111a801112999ab9a3371e00401026608a4466a0029000111a801112999ab9a3371e00401a20022600c0060022600c0060064a66a00242607466ae80d400488c0eccd5d01ba73303f2253350011376200e44266ae80d40088888c10ccd5d01ba90043357406ea000ccd5d01ba80023357406ea0004dd8806980200080119aba0374e6607e44a66a00226ec401c884cd5d01ba90023004001001376200a6ec400c4c0e0dd880124c44666ae68cdd78010008150112451c109b8dcab37c0c14ad6c83957cd474aa20d114bc46b2ae5a5deaefaf0023355302502a23500102c001223355302502a2350012233024002333500123355302902e2350012233028002300b0010012233300800f00200123355302902e2350012233028002300c00100133300300a00200122233355302402a0283355302502a2350012233024002300700133355302402a223500222533533355302d02e300a00b235001223300a002005006100313302c0040030270013355302502a23500122330240023303b2253350011300a003221350022253353300c002008112223300200a0041300600300400221222300300421222300100423301c223335003028002001350010273301a2253350020211001018223500222350032232335005233500425333573466e3c00800400c07c80808cd4010808094ccd5cd19b8f00200100301f15335003215335002213300900200101d15335001201d02422335002233500223350022335002233007002001201c2335002201c23300700200122201c222335004201c2225333573466e1c01800c54ccd5cd19b8700500213300a00400101d01d22333573466e3c00800407c05c88ccd5cd19b8700200101e016225333573466e3cd4008084d40040844ccd5cd19b87350020223500102201d01501423253335734604c0020362a666ae68c09400404c088c0acdd50009119192999ab9a302800111222001153335734604e0022642444600600860086ae84c0b000854ccd5cd18130008891100101198160009baa001232533357346046605400226464246600200600460086ae84d5d1181500118041aba130290010203754002464a666ae68c088c0a40044c8c8c8c8c8c8c8c848cccc00402401c00c008cc059d71aba135744008a666ae68c0a80044c84888c008010d5d098170010a999ab9a302900113212223001004375c6ae84c0b800854ccd5cd18140008891100181298170009baa357420026ae88008ccc019d70029aba100135744605200460186ae84c0a000407cdd500099800bae75a44466052446666aae7c004806c8c8cc074cc058c01cc0b0004c018c0ac004c010d5d10019aba100201d375600246464a666ae68c08c0044c848888c010014c010d5d098130010a999ab9a3022001132122223002005300b35742604c0042a666ae68c0840044c020c014d5d098130010a999ab9a3020001132122223003005375c6ae84c098008074c098004dd5000919192999ab9a3370e90060008891110050a999ab9a3370e90050008891111110020a999ab9a3370e90040008991909111111198008048041bad357426ae88c09800cdd71aba1302500215333573460440022646424444444660040120106eb8d5d09aba23026003375c6ae84c09400854ccd5cd18108008991909111111198030048041bae357426ae88c09800cc028d5d098128010a999ab9a3020001132122222223007008300a35742604a0042a666ae68c07c0044c848888888c014020c028d5d0981280100e18128009baa00123253335734603a60480022646424660020060046eb4d5d09aba2302400230033574260460020346ea80048c94ccd5cd180e181180089bae3574260440020326ea800488800c848888c0040148888c94ccd5cd180e18118008991919190919980080200180118031aba135744006600c6ae84008c018d5d098118011aba230220010193754002464a666ae68c060c07c0044c8c848cc00400c008cc018010d5d09aba2301f002300435742603c00202a6ea80048c8c94ccd5cd180c8008991919190911998008030020019bad357426ae88008dd69aba100135744603e0066eb4d5d0980f0010a999ab9a30180011321223002003300435742603c00402a603c0026ea80048c8c94ccd5cd180c00089909118008019bae35742603a0042a666ae68c05c0044c8488c00800cdd71aba1301d002014301d0013754002446464a666ae68c05c0044c01cc010d5d0980e8010a999ab9a3018001005014301d00137540022002201a42446004006442466002006004464a666ae68c040c05c0044c8c8c8c8c8c848cccc00401c01400c008dd69aba1357440046eb4d5d08009aba2002375a6ae84004d5d1180b8011bae35742602c00201a6ea800488cc05c88cccd55cf800900491980518029aba10023003357440040166eb0004c05088448894cd40044008884cc014008ccd54c01c034014010004c04c8844894cd4004014884cc024c010008cd54c01802c0100044004401088488cc00401000cc03c88448894cd40044d400c020884ccd4014024c010008ccd54c01c02001401000448004880088800454cd5ce24903505431001625002153357389210016370e90001b8748008dc3a40086e1d2006374a90001ba54800955cf2ab9d23230010012233003300200200101',
+2025-01-31 03:40:16 yaci-viewer-1  |       reference_script_hash: '77b0b379f7a5918f0873923c8285f964ed266e2a6263213fff99d82c',
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:40:16 yaci-viewer-1  |     },
+2025-01-31 03:40:16 yaci-viewer-1  |     {
+2025-01-31 03:40:16 yaci-viewer-1  |       tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:40:16 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:40:16 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:40:16 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:40:16 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:40:16 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:40:16 yaci-viewer-1  |     }
+2025-01-31 03:40:16 yaci-viewer-1  |   ],
+2025-01-31 03:40:16 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:40:16 yaci-viewer-1  |   total_output: 9995217631,
+2025-01-31 03:40:16 yaci-viewer-1  |   fees: 372433,
+2025-01-31 03:40:16 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:40:16 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:40:16 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:40:16 yaci-viewer-1  |   script_data_hash: null,
+2025-01-31 03:40:16 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-31 03:40:16 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:40:16 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:40:16 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:40:16 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:40:16 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:40:16 yaci-viewer-1  |   invalid: false
+2025-01-31 03:40:16 yaci-viewer-1  | }
+2025-01-31 03:40:16 yaci-viewer-1  | []
+2025-01-31 03:40:16 yaci-viewer-1  | []
+2025-01-31 03:41:53 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:41:53 yaci-viewer-1  | [
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '8c1cb0c06b48dc4238775f81f3276634fbc243131323be95767055ef3d095515',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       '2657WMsDfac6EtPTiPEptLHDYUVYD5DtRpTmVWb6X95beFrKXqPULmyvCwmCxZEGN'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 3340000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '6712b9e13e7e433397ea2888899b8a5ba57b12c427dc72f1c1c684ac05f32b1a',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq5tscksq8n2vjszkdtqe0zn9645246ex3mu88x9y0stnlzjwyqgnrq3uuc3jst3hyy244rrwuxke0m7ezr3cn93u5vq0rfv8t'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '979a06c4cc5a1902d68f469d6d6e9a780a2667f5ce8557c199fcfa882e05c92e',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qq7a8p6zaxzgcmcjcy7ak8u5vn7qec9mjggzw6qg096nzlj6n7rflnv3x43vnv8q7q0h0ef4n6ncp5mljd2ljupwl79s5mqneq'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: '27bc6c090c20dc1fe66f07ac200d5e97493a11c9554f3fc92f0ea7036fb11df9',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qrrv7774puml0exvzc0uqrc8axezy6a925kv4ucdx906qy6mhjxtmx44x70ndr7g6dgqcdaf69q8fnrdmtvfud5x7rsqvsuqx5'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   },
+2025-01-31 03:41:53 yaci-viewer-1  |   {
+2025-01-31 03:41:53 yaci-viewer-1  |     tx_hash: 'a2857a9eb8e140c6183137bf8aadbb47eeea23b96b9f4a13e4155c1ef83716a6',
+2025-01-31 03:41:53 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:41:53 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:41:53 yaci-viewer-1  |       'addr_test1qzyw0ensk3w2kgezk5vw77m0vmfs4mqdjg7ugclyvuy357g0vaukh8a8zgj09prvaw70f9gvz8sypmsjf5c0dctyhn2slcvsjn'
+2025-01-31 03:41:53 yaci-viewer-1  |     ],
+2025-01-31 03:41:53 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:41:53 yaci-viewer-1  |     fee: 0
+2025-01-31 03:41:53 yaci-viewer-1  |   }
+2025-01-31 03:41:53 yaci-viewer-1  | ]
+2025-01-31 03:41:56 yaci-viewer-1  | {
+2025-01-31 03:41:56 yaci-viewer-1  |   hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:41:56 yaci-viewer-1  |   block_height: 30375,
+2025-01-31 03:41:56 yaci-viewer-1  |   slot: 30975,
+2025-01-31 03:41:56 yaci-viewer-1  |   inputs: [
+2025-01-31 03:41:56 yaci-viewer-1  |     {
+2025-01-31 03:41:56 yaci-viewer-1  |       tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:41:56 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:41:56 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:41:56 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:41:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:41:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:41:56 yaci-viewer-1  |     }
+2025-01-31 03:41:56 yaci-viewer-1  |   ],
+2025-01-31 03:41:56 yaci-viewer-1  |   outputs: [
+2025-01-31 03:41:56 yaci-viewer-1  |     {
+2025-01-31 03:41:56 yaci-viewer-1  |       tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:41:56 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:41:56 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:41:56 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:41:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:41:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       script_ref: '8202590ce2590cdf01000032323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232322223232323232323253353500223223500323232223232322222222223335017235001225335300d3501d2222333304d004003337006a042406090010008a99a9980c1aa809901f9829801099299a998081a80f11110020008a99a9998118179aa80a10201aa80790200a99a9980980100089a8011119a80110261199aa982782a181981a1199ab9a305d33303735001204448811c109b8dcab37c0c14ad6c83957cd474aa20d114bc46b2ae5a5deaefaf0000204404d302c015048048048305400204704723500122253353302d0023501e222200413253353301a3550152041001153350022153353010001153353330250313550162042355011204201904a04a15333573466e1d200133303400d3501f20340011533550180501330143501f2222004305600404904930540030482350012225335330193550142040305400113253353301100400115335300f3501f2222333304f00800700200115335333024030355015204135501020411330143501f22220040010490490493055001048253335355002202003b21333573466ebc004d40088888c150cd5d01a80211182b19aba03024002335740a66a0024260ae66ae80cd40048c160cd5d018130009bb1027222305b3357406ea000ccd5d01ba80023357406ea0004dd88149bb102613057376204a6ec4094cd5d01ba90033357406ea0008cd5d01ba9001376204606807a407826660a2444a66a0042a66a002096442a66a00220044409e4426a0044444a66a6604e0086aa01c444400826601200a6609800c00e26601200a00e00406244666aa607c08660440464a66a660406a00244440080062660186a002406600407600644666aa6076080603e0404a66a660126a002406000426603a6a0024444008006070603000826a00c446666a0020880880886609c444a66a0040904426a00444a66aa666ae68cdc79a8010229a8028228999ab9a3370e6a0040846a00a08406a07c07a200226600e00600a0062666aa606a0746032034602e91011c50fd98cedacc232ee8e586378922a44a5bc5ba584deb26f3af0ee6cc003355303703a23500103a35001222222222222333553041046330372233553045048235001223303c0023355304804b235001223303f00233350013700900038023370000290000009980e00100081a91a800911a800901c0060890008b11199ab9a304233301c00235007201c00102903253335734607c608a00a2646464246600200600460466ae84d5d11823003a999ab9a303f3046001132323232323232323232323232323232323232323232321233333333333300101801601401201000e00c009007005003002303b357426ae88008ccc0d5d710009aba10013574400466606606a40026ae84004d5d1001198193ae357420026ae8800d4ccd5cd1827182a80089919191909198008020012999ab9a30513058001132321233001003002302e357426ae88c160008cc0b9d69aba1305700104c37546ae84d5d1182b001a999ab9a304f3056001132321233001003002302c357426ae88c158008cc0b1d69aba1305500104a37546ae84c150004124dd51aba100135744004666058070eb4d5d08009aba20023302b02d357420026ae88008ccc0a1d70139aba10013574400466604ceb8094d5d08009aba200233025022357420026ae88008cc08c07cd5d08009aba230460023302101d35742608a0020746ea8d5d0982200281ca999ab9a303f00113212223002004333302675c05260580506ae84c10c00854ccd5cd181f000899091118008021999813014bae75c6ae84c10c00854ccd5cd181e80089919091118018022999ab9a303e3045001133028375c6ae84c110004c0a8d5d09aba2304400103937546ae84c10c0080e0c10c004dd500218128021baa00122233355302c03130100042350012233355302f034301300723500122333500123300a480000040248cc0280052000001330050020011233001225335002100102701d223355302b02e2350012233022002333500123355302f0322350012233026002300b0010012233300801000200123355302f0322350012233026002300c00100133300300b00200122233355302802e02f3355302b02e2350012233022002300700133355302802e223500222533533355302d0323011012235001223300a002005006100313303300400301d0013355302b02e2350012233022002330402253350011300a003221350022253353300c002008112223300200a004130060030040022122230030042122230010042335530260292350010260012335001230343357406ea4004dd88019181a99aba037520026ec400d26222002223500222350032232335005233500425333573466e3c00800400c09080948cd4010809494ccd5cd19b8f002001003024153350032153350022133500223350022335002233500223300d00200120282335002202823300d00200122202822233500420282225333573466e1c01800c54ccd5cd19b8700500213301000400102902902215335001202202822333573466e3c00800405007488ccd5cd19b8700200101301c2330132233350030230020013500101e1233001225335002021100101922200122233030223350014800088d4008894ccd5cd19b8f002008133036223350014800088d4008894ccd5cd19b8f00200d1001130060030011300600300323253335734604e00203a2a666ae68c098004058084c0b0dd50009119192999ab9a30290011122200115333573460500022642444600600860086ae84c0b400854ccd5cd18138008891100101118168009baa001232533357346048605600226464246600200600460086ae84d5d1181580118049aba1302a00101f3754002464a666ae68c08cc0a80044c8c8c8c8c8c8c8c848cccc00402401c00c008cc065d71aba135744008a666ae68c0ac0044c84888c008010d5d098178010a999ab9a302a00113212223001004375c6ae84c0bc00854ccd5cd18148008891100181218178009baa357420026ae88008ccc019d70029aba1001357446054004601e6ae84c0a4004078dd500099800bae75a44466054446666aae7c00480348c8cc080cc040c01cc0b4004c018c0b0004c010d5d10019aba100201d37560024466050446666aae7c004802c8cc074c014d5d080118019aba200201b375800246464a666ae68c08c0044c848888c010014c010d5d098130010a999ab9a3022001132122223002005300d35742604c0042a666ae68c0840044c848888c004014c014d5d098130010a999ab9a3020001132122223003005375c6ae84c09800806cc098004dd5000919192999ab9a3370e90060008891110050a999ab9a3370e90050008891111110020a999ab9a3370e90040008991909111111198008048041bad357426ae88c09800cdd71aba1302500215333573460440022646424444444660040120106eb8d5d09aba23026003375c6ae84c09400854ccd5cd18108008991909111111198030048041bae357426ae88c09800cc030d5d098128010a999ab9a3020001132122222223007008300c35742604a0042a666ae68c07c0044c848888888c014020c030d5d0981280100d18128009baa00123253335734603a60480022646424660020060046eb4d5d09aba2302400230033574260460020306ea80048c94ccd5cd180e181180089bae35742604400202e6ea800488800c40408888c94ccd5cd180e18118008991919190919980080280180118031aba135744004600c6ae84004d5d1181180118029aba130220010173754002442466002006004464a666ae68c05cc0780044c8c8cccc02cc014d5d0980f8019bae357420046eb4d5d08009bae357426ae88004d5d10009aba2301d0010123754002464a666ae68c058c0740044c8c848cc00400c008cc018010d5d09aba2301d00230043574260380020226ea80048c8c94ccd5cd180b8008991919190911998008030020019bad357426ae88008dd69aba100135744603a0066eb4d5d0980e0010a999ab9a30160011321223002003300435742603800402260380026ea80048c8c94ccd5cd180b00089909118008019bae3574260360042a666ae68c0540044c8488c00800cdd71aba1301b002010301b0013754002446464a666ae68c0540044c8488c00800cc010d5d0980d8010a999ab9a3016001005010301b001375400220022008444424666600200a008006004602a4422444a66a00220044426600a004666aa600e01a00a00800260284422444a66a00226a00600c442666a00a0166008004666aa600e01800a008002440026024442244a66a00200a44266014600800466aa600c01200800222002440042400244244660020080062a66ae71240103505431001637149101033130300037149101033232320025002153357389210016370e90001b8748008dc3a40086e1d2006374a90001ba54800955cf2ab9d23230010012233003300200200101',
+2025-01-31 03:41:56 yaci-viewer-1  |       reference_script_hash: '9ed2f84a68ca6d2ffdd411aad93dd91b2dc882351e28366a48ea476f',
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:41:56 yaci-viewer-1  |     },
+2025-01-31 03:41:56 yaci-viewer-1  |     {
+2025-01-31 03:41:56 yaci-viewer-1  |       tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:41:56 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:41:56 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:41:56 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:41:56 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:41:56 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:41:56 yaci-viewer-1  |     }
+2025-01-31 03:41:56 yaci-viewer-1  |   ],
+2025-01-31 03:41:56 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:41:56 yaci-viewer-1  |   total_output: 9994902398,
+2025-01-31 03:41:56 yaci-viewer-1  |   fees: 315233,
+2025-01-31 03:41:56 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:41:56 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:41:56 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:41:56 yaci-viewer-1  |   script_data_hash: null,
+2025-01-31 03:41:56 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-31 03:41:56 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:41:56 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:41:56 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:41:56 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:41:56 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:41:56 yaci-viewer-1  |   invalid: false
+2025-01-31 03:41:56 yaci-viewer-1  | }
+2025-01-31 03:41:56 yaci-viewer-1  | []
+2025-01-31 03:41:56 yaci-viewer-1  | []
+2025-01-31 03:43:02 yaci-viewer-1  | http://yaci-cli:8080/api/v1/txs?page=0&count=20
+2025-01-31 03:43:02 yaci-viewer-1  | [
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 30490,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 31090,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9994606789,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 295609
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 30375,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 30975,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9994902398,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 315233
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '13ba37895a9a3204f22a6c9b06bdad82e2fbf840618286c8ec8b853890147f34',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 30244,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 30844,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9995217631,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 372433
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'be719ab5b0008a204bda94b2ba99a00bdc93ed579b341a1d7ef82df36c4ccfa4',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 23194,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 23794,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9996758074,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 272626
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'cf2739d730024d5e3f59088a7c00e1330b00060d299b65263299d8ab67a48af9',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 22345,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 22945,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9998224570,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 295222
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'dad190da8a807667d1010b78879c6627e4a86f58023e80884d40be98ae8ae683',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 21989,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 22589,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 9999705042,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 294958
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '44542455b82e82ef5d4c6fd93de1a8642383b1430c8863952503418f599cfc0f',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 21413,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 22013,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 2999990000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '0827b1e636d96f993542d4e3f60e11c5d138ceb5d5c54cf30eae56f04c2cdb5c',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: 20830,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: 21430,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'c59295f675c40a068596c0b816c997a8a2f564d6c090d5242444cf79d0ddec48',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1vzaf27s0la5pvqsm9ta8jq97af506y8j678mtdjdurfr08qkeh3t3'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '347e9d3c72ddc52bdb43cf1c44d31507983c102e870398b9205fb8ed125f7e64',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1vzs0r2nae22szlq3ul3h8t4u7rz9dr850mqjh98caddm4zcypzjjt'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '650aae802cf0f3f5b214b6669caf823c34ff3648d749a8367bceed4bf64b2ae6',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1vpf8vv32c7yzgdqh8hxxgsvstannw6ym6vymdzkckds5lkq4jtrmx'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 3000000000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '66dc6b2e628bf1fb6204797f1a07f8e949d9520a70e859ecbf3ea3076029871e',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qpefp65049pncyz95nyyww2e44sgumqr5kx8mcemm0fuumeftwv8zdtpqct0836wz8y56aakem2uejf604cee7cn2p3qp9p8te'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 300000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'a6ce90a9a5ef8ef73858effdae375ba50f302d3c6c8b587a15eaa8fa98ddf741',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qrh3nrahcd0pj6ps3g9htnlw2jjxuylgdhfn2s5rxqyrr43yzewr2766qsfeq6stl65t546cwvclpqm2rpkkxtksgxuq90xn5f'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'c7565416e7553cdf8fdac8bf054b4b3de19d06b72efd00c47823335d7156ed1f',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qrzufj3g0ua489yt235wtc3mrjrlucww2tqdnt7kt5rs09grsag6vxw5v053atks5a6whke03cf2qx3h3g2nhsmzwv3sgml3ed'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '8b96680725c4fcf461214054d0b364a86e43d7d6be0475d610e980971b101ad0',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qqm87edtdxc7vu2u34dpf9jzzny4qhk3wqezv6ejpx3vgrwt46dz4zq7vqll88fkaxrm4nac0m5cq50jytzlu0hax5xqwlraql'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '1c2498914a63269e7d4ab7f6b7d493d0d41a87b0cacaab7412c591219dcc21c4',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qp0qu4cypvrwn4c7pu50zf3x9qu2drdsk545l5dnsa7a5gsr6htafuvutm36rm23hdnsw7w7r82q4tljuh55drxqt30q6vm8vs'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '979a06c4cc5a1902d68f469d6d6e9a780a2667f5ce8557c199fcfa882e05c92e',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qq7a8p6zaxzgcmcjcy7ak8u5vn7qec9mjggzw6qg096nzlj6n7rflnv3x43vnv8q7q0h0ef4n6ncp5mljd2ljupwl79s5mqneq'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '145da89c02380f6f72d6acc8194cd9295eb2001c2d88f0b20fef647ec5a18f7f',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qqra0q073cecs03hr724psh3ppejrlpjuphgpdj7xjwvkqnhqttgsr5xuaaq2g805dldu3gq9gw7gwmgdyhpwkm59ensgyph06'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: 'aae852d5d2b08c0a937a319fec0d9933bc3bc67b9d0a6bfd4001997b169364b3',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qr9xuxclxgx4gw3y4h4tcz4yvfmrt3e5nd3elphhf00a67xnrv5vjcv6tzehj2nnjj4cth4ndzyuf4asvvkgzeac2hfqk0za93'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   },
+2025-01-31 03:43:02 yaci-viewer-1  |   {
+2025-01-31 03:43:02 yaci-viewer-1  |     tx_hash: '5b5b9626afd8846240e3c05de23634b1b6e76620be69b5a249670071b3c3fb60',
+2025-01-31 03:43:02 yaci-viewer-1  |     block_number: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     slot: -1,
+2025-01-31 03:43:02 yaci-viewer-1  |     output_addresses: [
+2025-01-31 03:43:02 yaci-viewer-1  |       'addr_test1qpgkf2ccvu2uscmcqgy4dkyjeae0va3kk7yk04nuleekq3u3xrwgnnm6n0yfzz0e8x2kkehex2f6mexrjg9h9l2qhm4qkms53s'
+2025-01-31 03:43:02 yaci-viewer-1  |     ],
+2025-01-31 03:43:02 yaci-viewer-1  |     total_output: 10000000000,
+2025-01-31 03:43:02 yaci-viewer-1  |     fee: 0
+2025-01-31 03:43:02 yaci-viewer-1  |   }
+2025-01-31 03:43:02 yaci-viewer-1  | ]
+2025-01-31 03:43:04 yaci-viewer-1  | {
+2025-01-31 03:43:04 yaci-viewer-1  |   hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:43:04 yaci-viewer-1  |   block_height: 30490,
+2025-01-31 03:43:04 yaci-viewer-1  |   slot: 31090,
+2025-01-31 03:43:04 yaci-viewer-1  |   inputs: [
+2025-01-31 03:43:04 yaci-viewer-1  |     {
+2025-01-31 03:43:04 yaci-viewer-1  |       tx_hash: 'edf47af3c9542aba65c47159e53646346ef5123efdd905ffcf1f7360d242b5d3',
+2025-01-31 03:43:04 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:43:04 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:43:04 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:43:04 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:43:04 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:43:04 yaci-viewer-1  |     }
+2025-01-31 03:43:04 yaci-viewer-1  |   ],
+2025-01-31 03:43:04 yaci-viewer-1  |   outputs: [
+2025-01-31 03:43:04 yaci-viewer-1  |     {
+2025-01-31 03:43:04 yaci-viewer-1  |       tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:43:04 yaci-viewer-1  |       output_index: 0,
+2025-01-31 03:43:04 yaci-viewer-1  |       address: 'addr_test1qq4vkwzxwsrnd3vkuk5uc6gemztevyx8jzks05m7wfwnd62d8ggvxea6jctxwafsht7dgsv04pnmkm45w9d0r9war0gqw5ek5d',
+2025-01-31 03:43:04 yaci-viewer-1  |       stake_address: 'stake_test1upxn5yxrv7afv9n8w5ct4lx5gx86seamd668zkh3jhw3h5qe8kz5h',
+2025-01-31 03:43:04 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:43:04 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       script_ref: '8202590b24590b21010000323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323222323232323232325335350032235002222223222222223350132333553040041302402523300a0014800400494ccd5cd19b8733021304004133304e22253350011002221350022233007333305522225335001100222135002225333573460aa002266601000e00c006266601000e6609c66608400e00400200c00600400c00200607c01466e08cc084c1001040052004153353335530400413024022302048811c50fd98cedacc232ee8e586378922a44a5bc5ba584deb26f3af0ee6cc003355303c0412350010433501022222222222233355304c04d3303e223355304a04f23500122330430023355304d0522350012233046002333500137009000380233700002900000099aa982502791a8009119821801199a800919aa982702991a8009119823801181980080091199818019801000919aa982702991a8009119823801181a00080099981581700100082511a800911a80090208060999aa9820020981201291a8009191911299a999aa982302398150141299a9980c1a800901ca8028a99aa999a9a800911100101f90999ab9a3375e00260a466ae80d400c88c150cd5d0181200119aba0533500121305533574066a002460ac66ae80c098004dd8813911182c99aba0375000666ae80dd400119aba037500026ec40a4dd88130982a9bb1025376204a66ae80dd480219aba04c10100003357406ea54068dd881182302090200998119a80091110021981c8911800a4411c9ed2f84a68ca6d2ffdd411aad93dd91b2dc882351e28366a48ea476f0004003f03f01215335333553046047302a0282533533018350012039500413302335001222200400203f012153353300f5004480084cc03d400d200203e03e03e13371491010332323200002133714911033130300000100103803822333573466e1cccc07c00d402c0080040dc0c84480045888ccd5cd181c19980b801280180081781509a800911999a80081a900081a81aa999ab9a3033303a00413232321233001003002301c357426ae88c0ec0194ccd5cd181a181d800899191919191919191919191919191919191919191919190919999999999980080c00b00a009008007006004803802801801181a1aba13574400466605eeb88004d5d08009aba200233302d02e2001357420026ae88008cc0e5d71aba100135744006a666ae68c10cc1280044c8c8c8c848cc0040100094ccd5cd1823182680089919091980080180118141aba135744609a00466050eb4d5d098260008221baa357426ae88c12c00d4ccd5cd1822182580089919091980080180118131aba13574460960046604ceb4d5d098250008211baa3574260920020826ea8d5d08009aba200233302602f75a6ae84004d5d1001198190131aba100135744004666044eb8084d5d08009aba200233302075c03e6ae84004d5d10011981600e1aba100135744004660540326ae84004d5d1181d8011981400b9aba1303a00103237546ae84c0e40100c54ccd5cd18198008990911801001998133ae3574260700042a666ae68c0c80044c8488c00400ccc0988c94ccd5cd181a181d8008991998111bae3574260760046eb8d5d080098119aba1357440026ae88c0e80040c8dd50009aba13038002030303800137540066ea80048cd40048c0c8cd5d01ba900137620064606666ae80dd48009bb100349888d400888d400c88c8cd40148cd401094ccd5cd19b8f00200100302520262335004202625333573466e3c00800400c09454cd400c854cd400884cd40088cd40088cd40088cd40088cc04000800480a48cd400880a48cc0400080048880a4888cd401080a48894ccd5cd19b8700600315333573466e1c0140084ccd5cd19b8700400103002b02a02a02315335001202302722233355302102702533553022027235001223301b0023007001333553021027223500222533533355302a02b300e00c235001223300a002005006100313302900400302400133553022027235001223301b002330372253350011300a003221350022253353300c002008112223300200a0041300600300400221222300300421222300100422333573466e3c00800408006c88cccd54008cc04c88ccd4018094004008d401009088cdc0000a40040029000091980091299a80100f080080c1980791118019801000900091980791199a8018108010009a800810091980091299a801080080b00d111198159119a800a4000446a00444a666ae68cdc78010040998189119a800a4000446a00444a666ae68cdc7801006880089803001800898030018019192999ab9a3022001018153335734604200202603e604e6ea800488c8c94ccd5cd1812000889110008a999ab9a30230011321222300300430043574260500042a666ae68c08800444888008080c0a0004dd50009192999ab9a301f30260011323212330010030023004357426ae88c098008c020d5d0981280080e9baa00123253335734603c604a0022646464646464646424666600201200e0060046602ceb8d5d09aba200453335734604c002264244460040086ae84c0a800854ccd5cd1812800899091118008021bae3574260540042a666ae68c0900044488800c088c0a8004dd51aba10013574400466600ceb8014d5d08009aba23025002300c3574260480020386ea8004cc005d73ad222330252233335573e0024030464660346601a600e6050002600c604e00260086ae8800cd5d080100d1bab0012323253335734603e00226424444600800a60086ae84c08800854ccd5cd180f00089909111180100298059aba13022002153335734603a00226424444600200a600a6ae84c08800854ccd5cd180e0008990911118018029bae35742604400403460440026ea80048c8c94ccd5cd19b874803000444888802854ccd5cd19b874802800444888888801054ccd5cd19b87480200044c8c848888888cc004024020dd69aba13574460440066eb8d5d098108010a999ab9a301e001132321222222233002009008375c6ae84d5d118110019bae3574260420042a666ae68c0740044c8c848888888cc018024020dd71aba135744604400660146ae84c08400854ccd5cd180e00089909111111180380418051aba13021002153335734603600226424444444600a01060146ae84c084008064c084004dd50009192999ab9a30193020001132321233001003002375a6ae84d5d1181000118019aba1301f0010173754002464a666ae68c060c07c0044dd71aba1301e001016375400244400644246600200600444424666002008006004464a666ae68c050c06c0044c8c848cc00400c008cc018010d5d09aba2301b00230043574260340020246ea80048c8c94ccd5cd180a8008991919190911998008030020019bad357426ae88008dd69aba10013574460360066eb4d5d0980d0010a999ab9a30140011321223002003300435742603400402460340026ea80048c8c94ccd5cd180a00089909118008019bae3574260320042a666ae68c04c0044c8488c00800cdd71aba1301900201130190013754002446464a666ae68c04c0044c8488c00800cc010d5d0980c8010a999ab9a30140010050113019001375400220022014446602c446666aae7c00480248cc028c014d5d080118019aba200200b375800260264422444a66a00220044426600a004666aa600e01a00a0080026024442244a66a00200a44266012600800466aa600c016008002200220084424466002008006601c4422444a66a00226a006010442666a00a0126008004666aa600e01000a0080022400244004440022a66ae71241035054310016253357389201024c680016370e90001b8748008dc3a40086e1d2006374a90001ba54800955cf2ab9d23230010012233003300200200101',
+2025-01-31 03:43:04 yaci-viewer-1  |       reference_script_hash: 'c4118267fb536d8e81828e0f16a230a527e8950b981c95b386d4b5e6',
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:43:04 yaci-viewer-1  |     },
+2025-01-31 03:43:04 yaci-viewer-1  |     {
+2025-01-31 03:43:04 yaci-viewer-1  |       tx_hash: 'ee71689e0210c12baea09ccba91dacfb06c1b63cd25917e8f200bad8acd2e39c',
+2025-01-31 03:43:04 yaci-viewer-1  |       output_index: 1,
+2025-01-31 03:43:04 yaci-viewer-1  |       address: 'addr_test1qq7juz5dlts9w0hadajyrh2gd7xztw37wmmegkm8m45wl3z944ejc3er0hsrp7305dchqz9uyd9nzskanm0m2g7mmg4qt7e79w',
+2025-01-31 03:43:04 yaci-viewer-1  |       stake_address: 'stake_test1upz66uevgu3hmcpslgh6xutspz7zxje3gtweaha4y0da52suf343m',
+2025-01-31 03:43:04 yaci-viewer-1  |       amount: [Array],
+2025-01-31 03:43:04 yaci-viewer-1  |       data_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       script_ref: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       reference_script_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |       inline_datum_json: null
+2025-01-31 03:43:04 yaci-viewer-1  |     }
+2025-01-31 03:43:04 yaci-viewer-1  |   ],
+2025-01-31 03:43:04 yaci-viewer-1  |   utxo_count: 1,
+2025-01-31 03:43:04 yaci-viewer-1  |   total_output: 9994606789,
+2025-01-31 03:43:04 yaci-viewer-1  |   fees: 295609,
+2025-01-31 03:43:04 yaci-viewer-1  |   ttl: 0,
+2025-01-31 03:43:04 yaci-viewer-1  |   auxiliary_data_hash: 'bdaa99eb158414dea0a91d6c727e2268574b23efe6e08ab3b841abe8059a030c',
+2025-01-31 03:43:04 yaci-viewer-1  |   validity_interval_start: 0,
+2025-01-31 03:43:04 yaci-viewer-1  |   script_data_hash: null,
+2025-01-31 03:43:04 yaci-viewer-1  |   collateral_inputs: [],
+2025-01-31 03:43:04 yaci-viewer-1  |   required_signers: null,
+2025-01-31 03:43:04 yaci-viewer-1  |   netowrk_id: 0,
+2025-01-31 03:43:04 yaci-viewer-1  |   collateral_return: null,
+2025-01-31 03:43:04 yaci-viewer-1  |   total_collateral: null,
+2025-01-31 03:43:04 yaci-viewer-1  |   reference_inputs: [],
+2025-01-31 03:43:04 yaci-viewer-1  |   invalid: false
+2025-01-31 03:43:04 yaci-viewer-1  | }
+2025-01-31 03:43:04 yaci-viewer-1  | []
+2025-01-31 03:43:04 yaci-viewer-1  | []
